@@ -1,4 +1,4 @@
-# O FUTURO DA TECNOLOGIA NAS SUAS MÃOS – COMO O LOW-CODE EO CITIZEN DEVELOPER ESTÃO TRANSFORMANDO O MERCADO 🌌
+# O FUTURO DA TECNOLOGIA NAS SUAS MÃOS – COMO O LOW-CODE E O CITIZEN DEVELOPER ESTÃO TRANSFORMANDO O MERCADO #
 
 ## 📒 Descrição
 Este e-book de 18 páginas explora o surgimento do Low-Code e do conceito de Citizen Developer , o mercado está experimentando uma revolução que promete democratizar a criação de soluções digitais.
@@ -18,4 +18,4 @@ O e-book apresenta um conteúdo novas tedências de mercado e como vai revolucio
 (https://www.canva.com/design/DAGYDazElQk/Vv-M4Ja16QC1RQMZAyUlTQ/view?utm_content=DAGYDazElQk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 ## 💭 Reflexão
-Criar esse E-book foi bom para entender mais sobre as novas tedências de mercardo de uma forma simples e objetiva.
+Criar esse E-book é bom para entender mais sobre as novas tedências de mercardo de uma forma simples e objetiva.
